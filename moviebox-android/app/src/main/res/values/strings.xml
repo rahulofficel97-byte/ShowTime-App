@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShowTime+</string>
+    <string name="search_hint">Search movies, TV shows, anime on ShowTime+...</string>
+    <string name="vip_tag">VIP</string>
+    <string name="play_now">Watch Now</string>
+    <string name="membership_title">ShowTime+ VIP</string>
+</resources>

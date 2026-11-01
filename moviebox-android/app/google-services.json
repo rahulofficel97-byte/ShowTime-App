@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976047960795",
+    "project_id": "showtime-20189",
+    "storage_bucket": "showtime-20189.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976047960795:android:80e3f010be0ff2430cd2fe",
+        "android_client_info": {
+          "package_name": "com.showtime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRpraArSdxJgSxXPaBpAQKZwzUUv9dds0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

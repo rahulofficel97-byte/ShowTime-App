@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary_red">#E50914</color>
+    <color name="gold_vip">#FFD700</color>
+    <color name="black_amoled">#0A0A0C</color>
+    <color name="card_dark">#16161A</color>
+    <color name="text_white">#F8F9FA</color>
+    <color name="text_muted">#A0A0A6</color>
+</resources>
